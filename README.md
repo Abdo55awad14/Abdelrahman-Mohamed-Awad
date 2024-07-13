@@ -59,5 +59,3 @@ git clone https://github.com/yourusername/nyc-airbnb-data-science.git
 cd nyc-airbnb-data-science
 
 pip install -r requirements.txt
-
-Feel free to customize this template with specific details about your project before uploading it to GitHub.
